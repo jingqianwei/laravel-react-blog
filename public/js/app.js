@@ -86,9 +86,9 @@ window._ = __webpack_require__(1160);
  */
 
 try {
-  window.$ = window.jQuery = __webpack_require__(1161);
+    window.$ = window.jQuery = __webpack_require__(1161);
 
-  __webpack_require__(1162);
+    __webpack_require__(1162);
 } catch (e) {}
 
 /***/ }),
